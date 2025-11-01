@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d02124b-0e3a-4005-b7b3-9379f1d73305</dc:identifier>
+        <dc:title>syunbou</dc:title>
+        <dc:creator opf:file-as="トホ" opf:role="aut">杜甫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>出版社名</dc:publisher>
+        <dc:language>jpn</dc:language>
+        <meta name="calibre:timestamp" content="2025-10-25T02:44:00+00:00"/>
+        <meta name="calibre:title_sort" content="シュンボウ"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="シュンボウ - 杜甫.jpg"/>
+    </guide>
+</package>
